@@ -28,4 +28,10 @@ Choosing the best k value
 
 ![choosing-best-k-value](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/9cc9e9fd-6202-4e35-916d-18bc01434dbb)
 
-dd
+Creating 10 rows of new data (matching parameters of old data) for custcat classification
+
+![new-data-for-knn-model](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/1d184d62-bb9c-42bc-97f0-a0f4d406867d)
+
+Adding a new column ('custcat_predicted') for custcat classification for each new data point and saving results as a CSV file
+
+![new_data_with_custcat_predicted_column_added_and_exported_to_CSV_KNN](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/a2907508-1369-401a-8a47-c0ceefe9eee1)
