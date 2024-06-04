@@ -35,3 +35,11 @@ Creating 10 rows of new data (matching parameters of old data) for custcat class
 Adding a new column ('custcat_predicted') for custcat classification for each new data point and saving results as a CSV file
 
 ![new_data_with_custcat_predicted_column_added_and_exported_to_CSV_KNN](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/a2907508-1369-401a-8a47-c0ceefe9eee1)
+
+3d plot of age, income, and customer category
+
+![3d_plot_of_age_income_customer_category_KNN](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/adf834c1-3675-492d-985b-e9530874b00e)
+
+Another 3d plot of age, income, and customer category
+
+![3d_plot_of_age_income_customer_category_KNN(2)](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/abfccb17-a60c-4c9c-b8e5-fb076ec815bb)
