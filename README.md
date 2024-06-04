@@ -10,4 +10,22 @@ What I added to the project:
 
 Use this code to train and test KNN models on your own data as well as create new data to forecast classification categories and check model accuracy.
 
-# d
+# Project deliverables:
+
+Initial data
+
+![initial_custcat_data_for_KNN_model](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/75ac3f16-7c52-4e2d-b694-5d6627bd96ba)
+
+Use sklearn's preprocessing.StandardScaler to normalize data
+
+![preprocessing-standardscaler-to-normalize-data](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/d8723b08-8a68-4e7b-85bc-f152e60fe207)
+
+Train and test set accuracy with initial k value (initial value was 7)
+
+![initial-train-test-set-accuracy-with-k-chosen-as-7](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/7a9ef134-bc36-47ec-80dc-1bd732d72c27)
+
+Choosing the best k value
+
+![choosing-best-k-value](https://github.com/NollieAnalysis/K-Nearest-Neighbors-KNN-Supervised-Learning-Classification-Example-Template-Code/assets/163913188/9cc9e9fd-6202-4e35-916d-18bc01434dbb)
+
+dd
